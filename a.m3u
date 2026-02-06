@@ -15,4 +15,14 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1  tvg-name="ICI Télé Montréal (1)" tvg-id="ICIGrandMontreal-CBFT.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="42" group-title="📺 Canada Français",ICI Télé Montréal (1)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2000.m3u8
 
+#EXTINF:-1  tvg-name="TVA" tvg-id="TVA-Montreal-CFTM.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" tvg-chno="11" group-title="📺 Canada Français",TVA (1)
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+#EXTINF:-1  tvg-name="NOOVO-QuebecCity-CFAP.ca" tvg-logo="https://i.imgur.com/7rZhGIl.png" tvg-chno="19" group-title="📺 Canada Français",Noovo Comédies
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+
+#EXTINF:-1  tvg-name="Noovo Cinéma" tvg-logo="https://i.imgur.com/FNzVlkT.png" tvg-chno="21" group-title="📺 Canada Français",Noovo Cinéma
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+
+
 
