@@ -18,6 +18,9 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2000.m3u8
 #EXTINF:-1  tvg-name="TVA" tvg-id="TVA-Montreal-CFTM.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" tvg-chno="11" group-title="📺 Canada Français",TVA (1)
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
+#EXTINF:-1  tvg-name="Noovo Téléréalités" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/84ScGxt.png" tvg-chno="17" group-title="📺 Canada Français",Noovo Téléréalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+
 #EXTINF:-1  tvg-name="Noovo Comédies" tvg-id="NOOVO-QuebecCity-CFAP.ca" tvg-logo="https://i.imgur.com/7rZhGIl.png" tvg-chno="19" group-title="📺 Canada Français",Noovo Comédies
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
 
@@ -26,6 +29,7 @@ https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1  tvg-name="TELEMAG.ca" tvg-id="TELEMAG.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CHMG_TV.svg/300px-CHMG_TV.svg.png" tvg-chno="23" group-title="📺 Canada Français",Télémag
 https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8
+
 
 
 
