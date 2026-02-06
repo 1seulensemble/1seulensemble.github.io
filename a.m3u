@@ -1,13 +1,11 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 
-#EXTINF:-1  tvg-name="ICI RDI (1)" tvg-id="ICI.RDI.HD.ca2" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="1" group-title="📺 Canada Français",ICI RDI (1)
+#EXTINF:-1  tvg-name="ICI RDI (1)" tvg-id="ICI-RDI.ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="1" group-title="📺 Canada Français",ICI RDI (1)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2000.m3u8
 
-#EXTINF:-1  tvg-name="ICI RDI (2)" tvg-id="ICI.RDI.HD.ca2" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="2" group-title="📺 Canada Français",ICI RDI (2)
+#EXTINF:-1  tvg-name="ICI RDI (2)" tvg-id="ICI-RDI.ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="2" group-title="📺 Canada Français",ICI RDI (2)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2000.m3u8
 
-#EXTINF:-1  tvg-name="TVA (1)" tvg-id="CFTM.Montréal.ca2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" tvg-chno="11" group-title="📺 Canada Français",TVA (1)
-https://1seulensemble.github.io/tva1.m3u8
+#EXTINF:-1  tvg-name="ICI Télé Montréal (1)" tvg-id="ICIGrandMontreal-CBFT.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="42" group-title="📺 Canada Français",ICI Télé Montréal (1)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2000.m3u8
 
-#EXTINF:-1  tvg-name="Noovo Téléréalités" tvg-logo="https://i.imgur.com/84ScGxt.png" tvg-chno="17" group-title="📺 Canada Français",Noovo Téléréalités
-https://d29qczaufx5vc3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/35069c93-9ca7-4e9e-87d5-8e66069bfeaa/2.m3u8
