@@ -6,7 +6,10 @@ https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2000.m3u8
 #EXTINF:-1  tvg-name="LCN" tvg-id="LeCanalNouvellesTVA.ca" tvg-logo="https://i.imgur.com/JHOyrgA.png" tvg-chno="3" group-title="📺 Nouvelles",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
-#EXTINF:-1 tvg-name="CityNews" tvg-id="CityNews24/7Toronto.ca" tvg-chno="103" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="📺 Nouvelles", CityNews
+#EXTINF:-1 tvg-name="CBC News Network" tvg-id="CBC.News.Network.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/CBC_News_Network_2022.svg/960px-CBC_News_Network_2022.svg.png" group-title="📺 Nouvelles",CBC News Network
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+
+#EXTINF:-1 tvg-name="CityNews" tvg-id="CityNews24/7Toronto.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="📺 Nouvelles", CityNews
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
 #EXTINF:-1  tvg-name="Global News Montreal" tvg-id="X" tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png" tvg-chno="223" group-title="📺 Nouvelles",Global News Montreal
@@ -72,9 +75,9 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 
 
-
 #EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio Québécoise",QUB radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
+
 
 
 
