@@ -85,6 +85,9 @@ https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-name="W9" tvg-id="W9.fr" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="📺 France",W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 
+#EXTINF:-1 tvg-name="ILTV" tvg-id="ILTV.fr" tvg-logo="https://www.iltv.fr/elementor-27071/" "📺 France",ILTV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Plex" tvg-id="PLEXTV.cm" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpgg" group-title="📺 France",PLEX
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
@@ -95,6 +98,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
