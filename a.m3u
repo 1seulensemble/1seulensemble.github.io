@@ -1,30 +1,34 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 
-#EXTINF:-1  tvg-name="ICI RDI (1)" tvg-id="ICI-RDI.ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="1" group-title="📺 Canada Français",ICI RDI
+#EXTINF:-1  tvg-name="ICI RDI (1)" tvg-id="ICI-RDI.ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="1" group-title="📺 Télé Québec",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2000.m3u8
 
-#EXTINF:-1  tvg-name="LCN" tvg-id="LeCanalNouvellesTVA.ca" tvg-logo="https://i.imgur.com/JHOyrgA.png" tvg-chno="3" group-title="📺 Canada Français",LCN
+#EXTINF:-1  tvg-name="LCN" tvg-id="LeCanalNouvellesTVA.ca" tvg-logo="https://i.imgur.com/JHOyrgA.png" tvg-chno="3" group-title="📺 Télé Québec",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
 #EXTINF:-1 tvg-name="CityNews" tvg-id="CityNews24/7Toronto.ca" tvg-chno="103" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png", CityNews
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
-#EXTINF:-1  tvg-name="Canal Savoir" tvg-id="SavoirMedia-CFTU.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" tvg-chno="7" group-title="📺 Canada Français",Canal Savoir
+#EXTINF:-1  tvg-name="Global News Montreal" tvg-id="X" tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png" tvg-chno="223" group-title="📺 Canada English",Global News Montreal
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+
+
+#EXTINF:-1  tvg-name="Canal Savoir" tvg-id="SavoirMedia-CFTU.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" tvg-chno="7" group-title="📺 Télé Québec",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1  tvg-name="ICI Télé Montréal (1)" tvg-id="ICIGrandMontreal-CBFT.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="42" group-title="📺 Canada Français",ICI Télé Montréal
+#EXTINF:-1  tvg-name="ICI Télé Montréal" tvg-id="ICIGrandMontreal-CBFT.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="42" group-title="📺 Télé Québec",ICI Télé Montréal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2000.m3u8
 
-#EXTINF:-1  tvg-name="TVA" tvg-id="TVA-Montreal-CFTM.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" tvg-chno="11" group-title="📺 Canada Français",TVA (1)
+#EXTINF:-1  tvg-name="TVA" tvg-id="TVA-Montreal-CFTM.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" tvg-chno="11" group-title="📺 Télé Québec",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
-#EXTINF:-1  tvg-name="Noovo Téléréalités" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/84ScGxt.png" tvg-chno="17" group-title="📺 Canada Français",Noovo Téléréalités
+#EXTINF:-1  tvg-name="Noovo Téléréalités" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/84ScGxt.png" tvg-chno="17" group-title="📺 Télé Québec",Noovo Téléréalités
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
 
-#EXTINF:-1  tvg-name="Noovo Comédies" tvg-id="NOOVO-QuebecCity-CFAP.ca" tvg-logo="https://i.imgur.com/7rZhGIl.png" tvg-chno="19" group-title="📺 Canada Français",Noovo Comédies
+#EXTINF:-1  tvg-name="Noovo Comédies" tvg-id="NOOVO-QuebecCity-CFAP.ca" tvg-logo="https://i.imgur.com/7rZhGIl.png" tvg-chno="19" group-title="📺 Télé Québec",Noovo Comédies
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
 
-#EXTINF:-1  tvg-name="Noovo Cinéma" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/FNzVlkT.png" tvg-chno="21" group-title="📺 Canada Français",Noovo Cinéma
+#EXTINF:-1  tvg-name="Noovo Cinéma" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/FNzVlkT.png" tvg-chno="21" group-title="📺 Télé Québec",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 
 
@@ -42,6 +46,9 @@ https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
 https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
 
 
+#EXTINF:-1 tvg-name="TMC" tvg-id="TMC.fr@HD" group-title="📺 Télé France",TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+
 #EXTINF:-1 tvg-name="TF1 Series" tvg-id="TF1SeriesFilms.fr@SD" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies" group-title="📺 Télé France",TF1 Series Films
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 
@@ -56,6 +63,7 @@ https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3
 
 #EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio Québécoise",QUB radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
+
 
 
 
