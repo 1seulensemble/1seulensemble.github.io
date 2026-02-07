@@ -27,19 +27,21 @@ https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1  tvg-name="Noovo Cinéma" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/FNzVlkT.png" tvg-chno="21" group-title="📺 Canada Français",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 
-#EXTINF:-1  tvg-name="TELEMAG.ca" tvg-id="TELEMAG.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CHMG_TV.svg/300px-CHMG_TV.svg.png" tvg-chno="23" group-title="📺 Canada Français",Télémag
-https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Nickelodeon FR" tvg-id="Nickelodeon.fr@SD",Nickelodeon tvg-chno="100" group-title="📺 France ",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon FR" tvg-id="Nickelodeon.fr@SD" tvg-chno="100" group-title="📺 France ",Nickelodeon
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 
-#EXTINF:-1 tvg-name="Nickelodeon JR FR" tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior tvg-chno="101" group-title="📺 France ",NickelodeonJR
+#EXTINF:-1 tvg-name="Nickelodeon JR FR" tvg-id="NickelodeonJunior.fr@SD" tvg-chno="101" group-title="📺 France ",NickelodeonJR
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
-#EXTINF:-1 tvg-name="ARTE" tvg-id="arte.fr@HD",arte HD (1080p)
+#EXTINF:-1 tvg-name="ARTE" tvg-id="arte.fr@HD" tvg-chno="102",arte HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+
+#EXTINF:-1 tvg-name="CityNews" tvg-id="arte.fr@HD" tvg-chno="103", CityNews
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
 
 
 
