@@ -16,6 +16,7 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 
 
+
 #EXTINF:-1  tvg-name="Canal Savoir" tvg-id="SavoirMedia-CFTU.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" tvg-chno="7" group-title="📺 Québec",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 
@@ -34,9 +35,6 @@ https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1  tvg-name="Noovo Cinéma" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/FNzVlkT.png" group-title="📺 Québec",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 
-#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-blocked]
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
-
 
 
 #EXTINF:-1 tvg-name="Crave 1" tvg-id="Crave1.ca@SD" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="📺 Film",Crave 1
@@ -44,6 +42,10 @@ https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
 
 #EXTINF:-1 tvg-name="Crave 3" tvg-id="Crave3.ca@SD" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="📺 Film",Crave 3
 https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+
+#EXTINF:-1 tvg-name="Zylo Ciné Nanar" tvg-id="CineNanar.fr@SD" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="📺 Film",Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-name="TMC" tvg-id="TMC.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/960px-TMC_logo_2016.svg.png" group-title="📺 France",TMC
@@ -80,15 +82,11 @@ https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 #EXTINF:-1 tvg-name="M6" tvg-id="M6.fr@SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-logo="" group-title="📺 France",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
-#EXTINF:-1 tvg-name="Plex" tvg-id="PLEXTV.cm@SD" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpgg" group-title="📺 France",PLEX
-http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="W9" tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="📺 France",W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 
-#EXTINF:-1 tvg-name="Zylo Ciné Nanar" tvg-id="CineNanar.fr@SD" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Film",Zylo Ciné Nanar
-https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-name="Plex" tvg-id="PLEXTV.cm@SD" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpgg" group-title="📺 France",PLEX
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 
 
@@ -97,6 +95,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
