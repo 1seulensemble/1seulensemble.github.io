@@ -60,13 +60,13 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-name="ARTE" tvg-id="Arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/500px-Arte-Logo.svg.png" group-title="📺 France",ARTE
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 
-#EXTINF:-1 tvg-name="TV5 Monde" tvg-id="TV5Monde.fr" tvg-logo="https://i.postimg.cc/rw4GLfNF/tv5monde.png" group-title="📺 France",TV5 Monde
+#EXTINF:-1 tvg-name="TV5 Monde" tvg-id="TV5Monde.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/langfr-512px-Logo_TV5_Monde_-_2021.svg.png" group-title="📺 France",TV5 Monde
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
 
 #EXTINF:-1 tvg-name="TV5 Monde Info" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="📺 France",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-name="Planete +" tvg-id="Planeteplus.fr" tvg-logo="https://i.postimg.cc/wjxdYzFV/planeteplus.png" group-title="📺 France",Planete+
+#EXTINF:-1 tvg-name="Planete +" tvg-id="Planeteplus.fr" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="📺 France",Planete+
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 
@@ -104,6 +104,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
