@@ -33,12 +33,6 @@ https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 tvg-name="CBC Montréal" tvg-id="CBMTDT.ca@SD" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="General",CBC Montréal
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-
-
-
-
 #EXTINF:-1 tvg-name="Crave 1" tvg-id="Crave1.ca@SD" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",Crave 1
 https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
 
@@ -48,6 +42,9 @@ https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC" tvg-id="TMC.fr@HD" group-title="📺 Télé France",TMC
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+
+#EXTINF:-1 tvg-name="TF1" tvg-id="TF1.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/960px-Logo_TF1_2013.svg.png" group-title="📺 Télé France",TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 
 #EXTINF:-1 tvg-name="TF1 Series" tvg-id="TF1SeriesFilms.fr@SD" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies" group-title="📺 Télé France",TF1 Series Films
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
@@ -63,6 +60,7 @@ https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3
 
 #EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio Québécoise",QUB radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
+
 
 
 
