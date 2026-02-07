@@ -62,21 +62,25 @@ https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 
-#EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" group-title="📺 France",France 2
+#EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr@HD" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 
-#EXTINF:-1 tvg-name="France 3" tvg-id="France3.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/330px-France_3_2018.svg.png" group-title="📺 France",France 3
+#EXTINF:-1 tvg-name="France 3" tvg-id="France3.fr@HD" tvg-logo="https://i.postimg.cc/d0wrVP20/france3.png" group-title="📺 France",France 3
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 
-#EXTINF:-1 tvg-name="France 4"tvg-id="France4.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/330px-France_4_2018.svg.png" group-title="📺 France",France 4
+#EXTINF:-1 tvg-name="France 4"tvg-id="France4.fr@HD" tvg-logo="https://i.postimg.cc/HLz5JZz9/france4.png" group-title="📺 France",France 4
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 
-#EXTINF:-1 tvg-name="France 5" tvg-id="France5.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/330px-France_5_2018.svg.png" group-title="📺 France",France 5
+#EXTINF:-1 tvg-name="France 5" tvg-id="France5.fr@HD" tvg-logo="https://i.postimg.cc/TwPbnVHM/france5.png" group-title="📺 France",France 5
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 
 
 #EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio Québécoise",QUB radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
+
+#EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
