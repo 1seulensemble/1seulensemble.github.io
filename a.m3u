@@ -9,6 +9,9 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2000.m3u8
 #EXTINF:-1  tvg-name="LCN" tvg-id="LeCanalNouvellesTVA.ca" tvg-logo="https://i.imgur.com/JHOyrgA.png" tvg-chno="3" group-title="📺 Canada Français",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
+#EXTINF:-1 tvg-name="CityNews" tvg-id="CityNews24/7Toronto.ca" tvg-chno="103" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png", CityNews
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
 #EXTINF:-1  tvg-name="Canal Savoir" tvg-id="SavoirMedia-CFTU.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" tvg-chno="7" group-title="📺 Canada Français",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 
@@ -30,17 +33,12 @@ https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 tvg-name="Nickelodeon FR" tvg-id="Nickelodeon.fr@SD" tvg-chno="100" group-title="📺 France ",Nickelodeon
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-
-#EXTINF:-1 tvg-name="Nickelodeon JR FR" tvg-id="NickelodeonJunior.fr@SD" tvg-chno="101" group-title="📺 France ",NickelodeonJR
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
 #EXTINF:-1 tvg-name="ARTE" tvg-id="arte.fr@HD" tvg-chno="102",arte HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 
-#EXTINF:-1 tvg-name="CityNews" tvg-id="arte.fr@HD" tvg-chno="103", CityNews
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
+
 
 
 
