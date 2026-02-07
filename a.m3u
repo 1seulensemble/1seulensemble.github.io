@@ -55,6 +55,8 @@ https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3
 
 
 
+#EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" tvg-chno="104" group-title="📻 Radio Québécoise",QUB radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
 
 
 
