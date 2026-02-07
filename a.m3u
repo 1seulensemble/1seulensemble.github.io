@@ -59,9 +59,23 @@ https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 
+#EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr@HD",France 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+
+#EXTINF:-1 tvg-name="France 3" tvg-id="France3.fr@HD",France 3
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+
+#EXTINF:-1 tvg-name="France 4"tvg-id="France4.fr@HD",France 4
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+
+#EXTINF:-1 tvg-name="France 5" tvg-id="France5.fr@HD",France 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+
+
 
 #EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio Québécoise",QUB radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
+
 
 
 
