@@ -104,6 +104,10 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-name="BX1" tvg-id="BX1.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_BX1_2026.svg/960px-Logo_BX1_2026.svg.png" group-title="📺 Belgique",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 
+#EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be@HD",AB3 HD
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+
+
 
 
 #EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio Québécoise",QUB radio
@@ -118,6 +122,7 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-name="Ici Radio-Canada Télé Estrie" tvg-id="CKSHDT.ca",ICI Télé Estrie
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+
 
 
 
