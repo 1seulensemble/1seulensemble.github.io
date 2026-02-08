@@ -109,16 +109,16 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="RTL-TVI" tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="📺 Belgique",RTL-TVI
+#EXTINF:-1 tvg-name="RTL-TVI" tvg-id="RTLtvi.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="📺 Belgique",RTL-TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
 #EXTINF:-1 tvg-name="BX1" tvg-id="BX1.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_BX1_2026.svg/960px-Logo_BX1_2026.svg.png" group-title="📺 Belgique",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/AB3_logo_2025.png/960px-AB3_logo_2025.png" group-title="📺 Belgique",AB3 HD
+#EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/AB3_logo_2025.png/960px-AB3_logo_2025.png" group-title="📺 Belgique",AB3 HD
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
-#EXTINF:-1 tvg-name="RTBF La Une" tvg-id="LaUne.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/960px-RTBF_la_une_logo_2025.svg.png",RTBF La Une
+#EXTINF:-1 tvg-name="RTBF La une" tvg-id="LaUne.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/960px-RTBF_la_une_logo_2025.svg.png",RTBF La une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
 
@@ -128,6 +128,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
