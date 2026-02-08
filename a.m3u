@@ -98,6 +98,8 @@ https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Plex" tvg-id="PLEXTV.cm" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpgg" group-title="📺 France",PLEX
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-name="RTL-TVI" tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="📺 Belgique",RTL-TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
@@ -113,8 +115,11 @@ https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-name="RTBF La Une" tvg-id="LaUne.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/960px-RTBF_la_une_logo_2025.svg.png",RTBF La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
-#EXTINF:-1 tvg-name="LN24", tvg-id="LN24.be" tvg-logo="https://i.imgur.com/1EkZRwn.png",LN24
+#EXTINF:-1 tvg-name="LN24" tvg-id="LN24.be" tvg-logo="https://i.imgur.com/1EkZRwn.png",LN24
 https://live-ln24.digiteka.com/1911668011/index.m3u8
+
+#EXTINF:-1 tvg-name="MATELE" tvg-id="Matele.be@SD",MaTele
+https://live.matele.be/hls/live.m3u8
 
 
 #EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio Québécoise",QUB radio
@@ -129,6 +134,7 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-name="Ici Radio-Canada Télé Estrie" tvg-id="CKSHDT.ca",ICI Télé Estrie
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+
 
 
 
