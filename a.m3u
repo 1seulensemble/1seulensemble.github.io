@@ -23,6 +23,9 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1  tvg-name="ICI Télé Montréal" tvg-id="ICIGrandMontreal-CBFT.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="42" group-title="📺 Québec",ICI Télé Montréal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2000.m3u8
 
+#EXTINF:-1 tvg-name="ICI Télé Estrie" tvg-id="CKSHDT.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" group-title="📺 Québec,ICI Télé Estrie
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+
 #EXTINF:-1 tvg-name="CBC Monttreal" tvg-id="CBMTDT.ca",CBC Montréal
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master4.m3u8
 
@@ -109,17 +112,9 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be@HD",AB3 HD
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
-#EXTINF:-1 tvg-name="JapanimTV" tvg-id="JapanimTV.be",Japanim TV
-https://foxkidstv.be:3369/stream/play.m3u8
-
 #EXTINF:-1 tvg-name="RTBF La Une" tvg-id="LaUne.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/960px-RTBF_la_une_logo_2025.svg.png",RTBF La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
-#EXTINF:-1 tvg-name="LN24" tvg-id="LN24.be" tvg-logo="https://i.imgur.com/1EkZRwn.png",LN24
-https://live-ln24.digiteka.com/1911668011/index.m3u8
-
-#EXTINF:-1 tvg-name="MATELE" tvg-id="Matele.be@SD",MaTele
-https://live.matele.be/hls/live.m3u8
 
 
 #EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio Québécoise",QUB radio
@@ -128,15 +123,15 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Juste pour rire" tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Victor_JustForLaughs_trademark.jpg",Juste pour rire
+#EXTINF:-1 tvg-name="Juste pour rire" tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png",Juste pour rire
 https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png",Gusto
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Estrie" tvg-id="CKSHDT.ca",ICI Télé Estrie
-https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+
+
 
 
 
