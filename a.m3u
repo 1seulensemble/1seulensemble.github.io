@@ -113,6 +113,14 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png",Gusto
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Estrie" tvg-id="CKSHDT.ca",ICI Télé Estrie
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+
+
+
 
 
 
