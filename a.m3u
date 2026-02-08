@@ -137,6 +137,18 @@ https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-name="Carac 4" tvg-id="Carac4.ch@SD",Carac 4
+https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+#EXTINF:-1 tvg-name="Carac 3" tvg-id="Carac3.ch@SD",Carac 3
+https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+#EXTINF:-1 tvg-name="Carac 2" tvg-id="Carac2.ch@SD",Carac 2
+https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
+#EXTINF:-1 tvg-name="Carac 1" tvg-id="Carac1.ch@SD",Carac 1
+https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+
+
+
+
 
 
 
