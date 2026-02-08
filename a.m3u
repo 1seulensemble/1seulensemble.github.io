@@ -6,7 +6,7 @@ https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2000.m3u8
 #EXTINF:-1  tvg-name="LCN" tvg-id="LeCanalNouvellesTVA.ca" tvg-logo="https://i.imgur.com/JHOyrgA.png" tvg-chno="3" group-title="📺 Nouvelles",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
-#EXTINF:-1 tvg-name="CBC News Network" tvg-id="CBC.News.Network.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/CBC_News_Network_2022.svg/960px-CBC_News_Network_2022.svg.png" group-title="📺 Nouvelles",CBC News Network
+#EXTINF:-1 tvg-name="CBC News Network" tvg-id="CBCNewsNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/CBC_News_Network_2022.svg/960px-CBC_News_Network_2022.svg.png" group-title="📺 Nouvelles",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 
 #EXTINF:-1 tvg-name="CityNews" tvg-id="CityNews24/7Toronto.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="📺 Nouvelles", CityNews
@@ -128,6 +128,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
