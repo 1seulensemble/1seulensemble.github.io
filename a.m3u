@@ -27,7 +27,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2000.m3u8
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
 
 #EXTINF:-1 tvg-name="CBC Monttreal" tvg-id="CBMTDT.ca",CBC Montréal
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master4.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 
 #EXTINF:-1  tvg-name="TVA" tvg-id="TVA-Montreal-CFTM.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" tvg-chno="11" group-title="📺 Québec",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
@@ -41,6 +41,11 @@ https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1  tvg-name="Noovo Cinéma" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/FNzVlkT.png" group-title="📺 Québec",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 
+#EXTINF:-1 tvg-name="Juste pour rire" tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="📺 Québec",Juste pour rire
+https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png",Gusto
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 
 
 
@@ -77,6 +82,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 
+
 #EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 
@@ -109,7 +115,7 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-name="BX1" tvg-id="BX1.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_BX1_2026.svg/960px-Logo_BX1_2026.svg.png" group-title="📺 Belgique",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be@HD",AB3 HD
+#EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/AB3_logo_2025.png/960px-AB3_logo_2025.png" group-title="📺 Belgique",AB3 HD
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
 #EXTINF:-1 tvg-name="RTBF La Une" tvg-id="LaUne.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/960px-RTBF_la_une_logo_2025.svg.png",RTBF La Une
@@ -123,12 +129,11 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Juste pour rire" tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png",Juste pour rire
-https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png",Gusto
-https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+
+
+
 
 
 
