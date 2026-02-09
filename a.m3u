@@ -117,6 +117,9 @@ https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
 #EXTINF:-1 tvg-name="Carac 4" tvg-id="CARAC.4.ch" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="📺 Suisse",Carac 4
 https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
 
+#EXTINF:-1 tvg-name="Carac 5" tvg-id="CARAC.5.ch" tvg-logo="https://i.imgur.com/0D4CvYp.png" group-title="📺 Suisse",Carac 5
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+
 #EXTINF:-1 tvg-name="ILTV" tvg-id="ILTV.fr" tvg-logo="https://i.imgur.com/fVhrJHK.png" "📺 France",ILTV
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 
@@ -146,10 +149,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Carac5.ch@HD",Carac 5 (1080p)
-https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
-#EXTINF:-1 tvg-id="Carac5.ch@SD",Carac 5 SD
-https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
+
+
+
 
 
 
