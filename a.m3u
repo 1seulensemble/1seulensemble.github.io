@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-ca.xml"
+# EPG Suisse : https://epghub.xyz/epg/EPG-CH.xml.gz
 
 #EXTINF:-1  tvg-name="ICI RDI (1)" tvg-id="ICI-RDI.ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="1" group-title="📺 Nouvelles",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2000.m3u8
@@ -143,6 +144,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
