@@ -24,7 +24,7 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1  tvg-name="ICI Télé Montréal" tvg-id="ICIGrandMontreal-CBFT.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="42" group-title="📺 Québec",ICI Télé Montréal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Estrie" tvg-id="ICIEstrie-CKSH.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" group-title="📺 Québec,ICI Télé Estrie
+#EXTINF:-1 tvg-name="ICI Télé Estrie" tvg-id="ICIEstrie-CKSH.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" group-title="📺 Québec",ICI Télé Estrie
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
 
 #EXTINF:-1 tvg-name="CBC Montréal" tvg-id="CBCMontreal-CBMT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/500px-CBC_Logo_1992-Present.svg.png" group-title="📺 Québec",CBC Montréal
@@ -144,6 +144,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
