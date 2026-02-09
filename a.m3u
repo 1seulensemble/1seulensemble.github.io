@@ -141,10 +141,10 @@ https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
 
-#EXTINF:-1 tvg-id="RTS1.ch@SD",RTS 1
+#EXTINF:-1 tvg-name="RTS 1" tvg-id="RTS1.ch@SD",RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 
-#EXTINF:-1 tvg-id="RTS2.ch@SD",RTS 2
+#EXTINF:-1 tvg-name="RTS 2" tvg-id="RTS2.ch@SD",RTS 2
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 
 
@@ -154,6 +154,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
