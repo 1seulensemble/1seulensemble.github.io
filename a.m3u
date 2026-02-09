@@ -33,8 +33,8 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master3
 #EXTINF:-1  tvg-name="TVA" tvg-id="TVA-Montreal-CFTM.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" tvg-chno="11" group-title="📺 Québec",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
-#EXTINF:-1  tvg-name="Télémag" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CHMG_TV.svg/300px-CHMG_TV.svg.png" tvg-chno="23" group-title="📺 Canada Français",Télémag
-https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8
+# #EXTINF:-1  tvg-name="Télémag" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CHMG_TV.svg/300px-CHMG_TV.svg.png" tvg-chno="23" group-title="📺 Québec",Télémag
+# https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8
 
 #EXTINF:-1  tvg-name="Noovo Téléréalités" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/84ScGxt.png" tvg-chno="17" group-title="📺 Québec",Noovo Téléréalités
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
@@ -48,7 +48,7 @@ https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-name="Juste pour rire" tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="📺 Québec",Juste pour rire
 https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png",Gusto
+#EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png" group-title="📺 Canada",Gusto
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 
 
@@ -134,16 +134,17 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/AB3_logo_2025.png/960px-AB3_logo_2025.png" group-title="📺 Belgique",AB3 HD
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
-#EXTINF:-1 tvg-name="RTBF La une" tvg-id="LaUne.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/960px-RTBF_la_une_logo_2025.svg.png",RTBF La une
+#EXTINF:-1 tvg-name="RTBF La une" tvg-id="LaUne.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/960px-RTBF_la_une_logo_2025.svg.png" group-title="📺 Belgique",RTBF La une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
 
 
-#EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio Québécoise",QUB radio
+#EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio",QUB radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
 
-#EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
+#EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
