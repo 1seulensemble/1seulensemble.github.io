@@ -82,7 +82,7 @@ https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3
 #EXTINF:-1 tvg-name="TV5 Monde Info" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="📺 France",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-name="Planete +" tvg-id="Planeteplus.fr" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="📺 France",Planete+
+#EXTINF:-1 tvg-name="Planete +" tvg-id="PlanetePlus.ca" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="📺 France",Planete+
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 
@@ -154,6 +154,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
 
 
 
