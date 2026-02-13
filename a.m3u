@@ -33,8 +33,8 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master3
 #EXTINF:-1  tvg-name="TVA" tvg-id="TVA-Montreal-CFTM.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" tvg-chno="11" group-title="📺 Québec",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
-# #EXTINF:-1  tvg-name="Télémag" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CHMG_TV.svg/300px-CHMG_TV.svg.png" tvg-chno="23" group-title="📺 Québec",Télémag
-# https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8
+#EXTINF:-1  tvg-name="Télémag" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CHMG_TV.svg/300px-CHMG_TV.svg.png" tvg-chno="23" group-title="📺 Québec",Télémag
+https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8
 
 #EXTINF:-1  tvg-name="Noovo Téléréalités" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/84ScGxt.png" tvg-chno="17" group-title="📺 Québec",Noovo Téléréalités
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
@@ -45,8 +45,8 @@ https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1  tvg-name="Noovo Cinéma" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/FNzVlkT.png" group-title="📺 Québec",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 
-#EXTINF:-1 tvg-name="Juste pour rire" tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="📺 Québec",Juste pour rire
-https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
+# #EXTINF:-1 tvg-name="Juste pour rire" tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="📺 Québec",Juste pour rire
+# https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png" group-title="📺 Canada",Gusto
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
@@ -156,8 +156,14 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="Disney Jr." tvg-id="DisneyJr.fr@SD",Disney Jr.
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.fr@SD",Nickelodeon
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 
+#EXTINF:-1 tvg-name="Nickelodeon Junior" tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
 
 
