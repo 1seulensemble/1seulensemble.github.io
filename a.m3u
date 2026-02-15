@@ -158,6 +158,10 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 https://sy.wns.live/hls/stream.m3u8
 
 
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://i0.wp.com/cdn.broadbandtvnews.com/wp-content/uploads/2024/07/01110300/Adventure-Earth.jpg",Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
+
 # #EXTINF:-1 tvg-name="Disney Jr." tvg-id="DisneyJr.fr@SD",Disney Jr.
 # http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 
@@ -185,14 +189,11 @@ https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c5
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 
 
-# #EXTINF:-1 tvg-id="Notele.be@SD",Notele
-# https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr@SD",L'Equipe
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 
-# #EXTINF:-1 tvg-id="LEquipe.fr@SD",L'Equipe
-# https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 
-#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://i0.wp.com/cdn.broadbandtvnews.com/wp-content/uploads/2024/07/01110300/Adventure-Earth.jpg",Adventure Earth
-https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
 
 
 
