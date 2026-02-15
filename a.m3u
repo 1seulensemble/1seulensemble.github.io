@@ -185,12 +185,13 @@ https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 #EXTINF:-1 tvg-id="Q-music.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/330px-Qmusic_logo.svg.png",Q-Music
 https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
 
-#EXTINF:-1 tvg-id="RContactVision.be" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/Radio-contact-2024.svg/langfr-3840px-Radio-contact-2024.svg.png",Radio Contact (1080p)
+#EXTINF:-1 tvg-id="RContactVision.be" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/Radio-contact-2024.svg/langfr-3840px-Radio-contact-2024.svg.png",Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 
 
 #EXTINF:-1 tvg-id="LEquipe.fr@SD",L'Equipe
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
+
 
 
 
