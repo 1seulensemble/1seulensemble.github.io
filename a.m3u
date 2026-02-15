@@ -137,6 +137,9 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/AB3_logo_2025.png/960px-AB3_logo_2025.png" group-title="📺 Belgique",AB3 HD
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
+#EXTINF:-1 tvg-name="Trends Z" tvg-id="CanalZ.be" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/59/CANAL_Z.png" group-title="📺 Belgique",Trends Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+
 #EXTINF:-1 tvg-name="RTBF La une" tvg-id="LaUne.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/960px-RTBF_la_une_logo_2025.svg.png" group-title="📺 Belgique",RTBF La une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
@@ -156,14 +159,14 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Disney Jr." tvg-id="DisneyJr.fr@SD",Disney Jr.
-http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+# #EXTINF:-1 tvg-name="Disney Jr." tvg-id="DisneyJr.fr@SD",Disney Jr.
+# http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.fr@SD",Nickelodeon
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+# #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.fr@SD",Nickelodeon
+# http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 
-#EXTINF:-1 tvg-name="Nickelodeon Junior" tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+# #EXTINF:-1 tvg-name="Nickelodeon Junior" tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior
+# http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Notele.be@SD",Notele (576p) [Not 24/7]
@@ -175,10 +178,6 @@ https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c5
 #EXTINF:-1 tvg-id="RadioContact.be@SD",Radio Contact (1080p)
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalZ.be@SD",Trends Z (1080p)
-https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-
-
 #EXTINF:-1 tvg-id="Nicktoons.uk@SD",Nicktoons (576p)
 https://a1xs.vip/100054
 
@@ -188,6 +187,7 @@ https://sy.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVMonaco.mc@SD",TV Monaco (1080p)
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+
 
 
 
