@@ -151,12 +151,11 @@ https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 
 
+#EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-logo="https://annuaire-monaco.mc/news-monaco/wp-content/uploads/2023/09/TVMonaco.png" group-title="📺 Monaco",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 
-#EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio",QUB radio
-http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
-
-#EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio",ICI Première
-https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperyachtTV.mc@SD"  "https://superyacht.tv/wp-content/uploads/2022/02/apple-touch-icon.png" group-title="📺 Monaco",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
 
 
 # #EXTINF:-1 tvg-name="Disney Jr." tvg-id="DisneyJr.fr@SD",Disney Jr.
@@ -168,6 +167,17 @@ https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 # #EXTINF:-1 tvg-name="Nickelodeon Junior" tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior
 # http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
+#EXTINF:-1 tvg-id="Nicktoons.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/960px-Nicktoons_2023_Outlined_Logo.png" group-title="📺 Dessins animés",Nicktoons UK
+https://a1xs.vip/100054
+
+
+#EXTINF:-1  tvg-name="QUB radio" tvg-id="QUB.ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" group-title="📻 Radio",QUB radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
+
+#EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio",ICI Première
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Notele.be@SD",Notele (576p) [Not 24/7]
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
@@ -178,23 +188,12 @@ https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c5
 #EXTINF:-1 tvg-id="RadioContact.be@SD",Radio Contact (1080p)
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="Nicktoons.uk@SD",Nicktoons (576p)
-https://a1xs.vip/100054
-
-
-#EXTINF:-1 tvg-id="SuperyachtTV.mc@SD",Superyacht TV (1080p)
-https://sy.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-logo="https://annuaire-monaco.mc/news-monaco/wp-content/uploads/2023/09/TVMonaco.png",TV Monaco (1080p)
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-
 #EXTINF:-1 tvg-id="LEquipe.fr@SD",L'Equipe (720p)
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 
-
-
-#EXTINF:-1 tvg-id="AdventureEarth.de@SD",Adventure Earth (1080p)
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://i0.wp.com/cdn.broadbandtvnews.com/wp-content/uploads/2024/07/01110300/Adventure-Earth.jpg",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
 
 
 
