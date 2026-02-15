@@ -154,7 +154,7 @@ https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-logo="https://annuaire-monaco.mc/news-monaco/wp-content/uploads/2023/09/TVMonaco.png" group-title="📺 Monaco",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 
-#EXTINF:-1 tvg-id="SuperyachtTV.mc@SD"  "https://superyacht.tv/wp-content/uploads/2022/02/apple-touch-icon.png" group-title="📺 Monaco",Superyacht TV
+#EXTINF:-1 tvg-id="SuperyachtTV.mc@SD" tvg-logo="https://superyacht.tv/wp-content/uploads/2022/02/apple-touch-icon.png" group-title="📺 Monaco",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
 
 
@@ -193,6 +193,7 @@ https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://i0.wp.com/cdn.broadbandtvnews.com/wp-content/uploads/2024/07/01110300/Adventure-Earth.jpg",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
 
 
 
