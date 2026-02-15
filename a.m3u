@@ -128,8 +128,8 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="RTL-TVI" tvg-id="RTLtvi.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="📺 Belgique",RTL-TVI
-https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+# #EXTINF:-1 tvg-name="RTL-TVI" tvg-id="RTLtvi.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="📺 Belgique",RTL-TVI
+# https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
 #EXTINF:-1 tvg-name="BX1" tvg-id="BX1.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_BX1_2026.svg/960px-Logo_BX1_2026.svg.png" group-title="📺 Belgique",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
@@ -193,6 +193,7 @@ https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://i0.wp.com/cdn.broadbandtvnews.com/wp-content/uploads/2024/07/01110300/Adventure-Earth.jpg",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
 
 
 
