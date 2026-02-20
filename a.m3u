@@ -98,28 +98,16 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 
-
-# #EXTINF:-1 tvg-name="RTL-TVI" tvg-id="RTLtvi.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="📺 Belgique",RTL-TVI
-# https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+# === Belgique ===================================================================================================
 
 #EXTINF:-1 tvg-name="BX1" tvg-id="BX1.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_BX1_2026.svg/960px-Logo_BX1_2026.svg.png" group-title="📺 Belgique",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-
-# #EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/AB3_logo_2025.png/960px-AB3_logo_2025.png" group-title="📺 Belgique",AB3 HD
-# https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
 #EXTINF:-1 tvg-name="Trends Z" tvg-id="KanaalZ.be" tvg-logo="https://www.csa.be/wp-content/uploads/2009/07/Trends-Z-Blauw.png" group-title="📺 Belgique",Trends Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 
 #EXTINF:-1 tvg-name="RTBF La une" tvg-id="LaUne.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/960px-RTBF_la_une_logo_2025.svg.png" group-title="📺 Belgique",RTBF La une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-
-
-# #EXTINF:-1 tvg-name="RTS 1" tvg-id="RTS1.fr" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="📺 Suisse",RTS 1
-# https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
-
-# #EXTINF:-1 tvg-name="RTS 2" tvg-id="RTS2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png" group-title="📺 Suisse",RTS 2
-# https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 
 
 # === Monaco =======================================================================================================
@@ -245,6 +233,7 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One Français (720p)
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+
 
 
 
