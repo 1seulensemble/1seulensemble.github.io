@@ -111,6 +111,9 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/960px-Baywatch-logo.svg.png",Baywatch
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgca/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_of_Cops_%28TV_series%29.svg/960px-Logo_of_Cops_%28TV_series%29.svg.png",Cops
+https://langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8
+
 # === France =====================================================================================================
 
 #EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
@@ -226,6 +229,7 @@ https://live.matele.be/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One Français
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+
 
 
 
