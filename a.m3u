@@ -149,6 +149,9 @@ https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelePaese.fr" tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="📺 France",viàTéléPaese
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/0qyz6IUWgNW3eY8DaafuSQ/1920x1080.webp",Enquetesdechoc
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-lgfr/playlist.m3u8
+
 
 # === Belgique ===================================================================================================
 
@@ -232,6 +235,7 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo-culture-pub1.jpg",Culture Pub
 https://amg02232-botravail-amg02232c3-lg-fr-776.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgfr/playlist.m3u8
+
 
 
 
