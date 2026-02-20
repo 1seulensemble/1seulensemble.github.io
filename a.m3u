@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 # EPG Suisse : https://epghub.xyz/epg/EPG-CH.xml.gz
 
+
+# === Nouvelles ==================================================================================================
+
 #EXTINF:-1  tvg-name="ICI RDI (1)" tvg-id="ICI-RDI.ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="1" group-title="📺 Nouvelles",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2000.m3u8
 
@@ -17,6 +20,7 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 
 
+# === Quebec ==================================================================================================
 
 #EXTINF:-1  tvg-name="Canal Savoir" tvg-id="SavoirMedia-CFTU.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" tvg-chno="7" group-title="📺 Québec",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
@@ -296,6 +300,7 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="Movies",Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+
 
 
 
