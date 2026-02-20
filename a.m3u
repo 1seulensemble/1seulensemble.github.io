@@ -76,14 +76,14 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 # #EXTINF:-1 tvg-name="TMC" tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/960px-TMC_logo_2016.svg.png" group-title="📺 France",TMC
 # https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 
-#EXTINF:-1 tvg-name="TF1" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/960px-Logo_TF1_2013.svg.png" group-title="📺 France",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+# #EXTINF:-1 tvg-name="TF1" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/960px-Logo_TF1_2013.svg.png" group-title="📺 France",TF1
+# https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 
-#EXTINF:-1 tvg-name="TF1 Series" tvg-id="TF1Series-Films.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies" group-title="📺 France",TF1 Series Films
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+# #EXTINF:-1 tvg-name="TF1 Series" tvg-id="TF1Series-Films.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies" group-title="📺 France",TF1 Series Films
+# https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 
-#EXTINF:-1 tvg-name="ARTE" tvg-id="Arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/500px-Arte-Logo.svg.png" group-title="📺 France",ARTE
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+# #EXTINF:-1 tvg-name="ARTE" tvg-id="Arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/500px-Arte-Logo.svg.png" group-title="📺 France",ARTE
+# https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 
 # #EXTINF:-1 tvg-name="TV5 Monde" tvg-id="TV5Monde.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/langfr-512px-Logo_TV5_Monde_-_2021.svg.png" group-title="📺 France",TV5 Monde
 # https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
@@ -94,46 +94,43 @@ https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde Info" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="📺 France",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-name="Planete +" tvg-id="PlanetePlus.ca" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="📺 France",Planete+
-https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+# #EXTINF:-1 tvg-name="Planete +" tvg-id="PlanetePlus.ca" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="📺 France",Planete+
+# https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 
 
-#EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+# #EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
+# https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 
-#EXTINF:-1 tvg-name="France 3" tvg-id="France3.fr" tvg-logo="https://i.postimg.cc/d0wrVP20/france3.png" group-title="📺 France",France 3
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+# #EXTINF:-1 tvg-name="France 3" tvg-id="France3.fr" tvg-logo="https://i.postimg.cc/d0wrVP20/france3.png" group-title="📺 France",France 3
+# https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 
-#EXTINF:-1 tvg-name="France 4"tvg-id="France4.fr" tvg-logo="https://i.postimg.cc/HLz5JZz9/france4.png" group-title="📺 France",France 4
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+# #EXTINF:-1 tvg-name="France 4"tvg-id="France4.fr" tvg-logo="https://i.postimg.cc/HLz5JZz9/france4.png" group-title="📺 France",France 4
+# https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 
-#EXTINF:-1 tvg-name="France 5" tvg-id="France5.fr" tvg-logo="https://i.postimg.cc/TwPbnVHM/france5.png" group-title="📺 France",France 5
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+# #EXTINF:-1 tvg-name="France 5" tvg-id="France5.fr" tvg-logo="https://i.postimg.cc/TwPbnVHM/france5.png" group-title="📺 France",France 5
+# https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 
-#EXTINF:-1 tvg-name="M6" tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-logo="" group-title="📺 France",M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+# #EXTINF:-1 tvg-name="M6" tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-logo="" group-title="📺 France",M6
+# https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
-#EXTINF:-1 tvg-name="W9" tvg-id="W9.fr" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="📺 France",W9
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+# #EXTINF:-1 tvg-name="W9" tvg-id="W9.fr" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="📺 France",W9
+# https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 
-#EXTINF:-1 tvg-name="Carac 1" tvg-id="CARAC.1.ch" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="📺 Suisse",Carac 1
-https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+# #EXTINF:-1 tvg-name="Carac 1" tvg-id="CARAC.1.ch" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="📺 Suisse",Carac 1
+# https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
 
-#EXTINF:-1 tvg-name="Carac 2" tvg-id="CARAC.2.ch" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="📺 Suisse",Carac 2
-https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
+# #EXTINF:-1 tvg-name="Carac 2" tvg-id="CARAC.2.ch" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="📺 Suisse",Carac 2
+# https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
 
-#EXTINF:-1 tvg-name="Carac 3" tvg-id="CARAC.3.ch" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="📺 Suisse",Carac 3
-https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+# #EXTINF:-1 tvg-name="Carac 3" tvg-id="CARAC.3.ch" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="📺 Suisse",Carac 3
+# https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
 
-#EXTINF:-1 tvg-name="Carac 4" tvg-id="CARAC.4.ch" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="📺 Suisse",Carac 4
-https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+# #EXTINF:-1 tvg-name="Carac 4" tvg-id="CARAC.4.ch" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="📺 Suisse",Carac 4
+# https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
 
-#EXTINF:-1 tvg-name="Carac 5" tvg-id="CARAC.5.ch" tvg-logo="https://i.imgur.com/0D4CvYp.png" group-title="📺 Suisse",Carac 5
-https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
-
-#EXTINF:-1 tvg-name="ILTV" tvg-id="ILTV.fr" tvg-logo="https://i.imgur.com/fVhrJHK.png" "📺 France",ILTV
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+# #EXTINF:-1 tvg-name="Carac 5" tvg-id="CARAC.5.ch" tvg-logo="https://i.imgur.com/0D4CvYp.png" group-title="📺 Suisse",Carac 5
+# https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 
 #EXTINF:-1 tvg-name="Plex" tvg-id="PLEXTV.cm" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpgg" group-title="📺 France",PLEX
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
@@ -156,11 +153,11 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
 
-#EXTINF:-1 tvg-name="RTS 1" tvg-id="RTS1.fr" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="📺 Suisse",RTS 1
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+# #EXTINF:-1 tvg-name="RTS 1" tvg-id="RTS1.fr" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="📺 Suisse",RTS 1
+# https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 
-#EXTINF:-1 tvg-name="RTS 2" tvg-id="RTS2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png" group-title="📺 Suisse",RTS 2
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+# #EXTINF:-1 tvg-name="RTS 2" tvg-id="RTS2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png" group-title="📺 Suisse",RTS 2
+# https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 
 
 #EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-logo="https://annuaire-monaco.mc/news-monaco/wp-content/uploads/2023/09/TVMonaco.png" group-title="📺 Monaco",TV Monaco
@@ -205,11 +202,6 @@ https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c5
 
 #EXTINF:-1 tvg-id="RContactVision.be" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/Radio-contact-2024.svg/langfr-3840px-Radio-contact-2024.svg.png",Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-
-
-#EXTINF:-1 tvg-id="LEquipe.fr@SD",L'Equipe
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
-
 
 
 
@@ -303,6 +295,7 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="Movies",Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+
 
 
 
