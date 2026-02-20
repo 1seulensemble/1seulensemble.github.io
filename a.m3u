@@ -27,9 +27,6 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Estrie" tvg-id="ICIEstrie-CKSH.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" group-title="📺 Québec",ICI Télé Estrie
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
 
-#EXTINF:-1 tvg-name="CBC Montréal" tvg-id="CBCMontreal-CBMT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/500px-CBC_Logo_1992-Present.svg.png" group-title="📺 Québec",CBC Montréal
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master3.m3u8
-
 #EXTINF:-1  tvg-name="TVA" tvg-id="TVA-Montreal-CFTM.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA.png" tvg-chno="11" group-title="📺 Québec",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
@@ -45,8 +42,17 @@ https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1  tvg-name="Noovo Cinéma" tvg-id="NOOVO-Montreal-CFJP.ca" tvg-logo="https://i.imgur.com/FNzVlkT.png" group-title="📺 Québec",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 
-# #EXTINF:-1 tvg-name="Juste pour rire" tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="📺 Québec",Juste pour rire
-# https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
+
+# === CanadaAnglais ==================================================================================================
+
+#EXTINF:-1 tvg-name="CBC Montréal" tvg-id="CBCMontreal-CBMT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/500px-CBC_Logo_1992-Present.svg.png" group-title="📺 Canada",CBC Montréal
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master3.m3u8
+
+#EXTINF:-1  tvg-name="CBC Kids" tvg-logo="https://logodix.com/logo/251501.png" tvg-chno="198" group-title="📺 Canada",CBC Kids
+https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master720p.m3u8
+
+#EXTINF:-1  tvg-name="CBC Comedy" tvg-id="Information.Channel.(Generic).(INFO).ca" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbQEeo3aoYISxVWme7xIfHbf5Gl-Wfctpt2DqWC_w=s176-c-k-c0x00ffffff-no-rj" tvg-chno="199" group-title="📺 Canada",CBC Comedy
+https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master720p.m3u8
 
 #EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png" group-title="📺 Canada",Gusto
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
@@ -294,6 +300,7 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="Movies",Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+
 
 
 
