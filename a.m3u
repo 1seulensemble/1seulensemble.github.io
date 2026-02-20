@@ -14,7 +14,7 @@ https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2000.m3u8
 #EXTINF:-1  tvg-name="LCN" tvg-id="LeCanalNouvellesTVA.ca" tvg-logo="https://i.imgur.com/JHOyrgA.png" group-title="📺 Nouvelles",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
-#EXTINF:-1  tvg-name="France24" tvg-id="" tvg-logo="https://i.imgur.com/u8N6uoj.png"  group-title="📺 Nouvelles",France24
+#EXTINF:-1  tvg-name="France24" tvg-id="France24.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png"  group-title="📺 Nouvelles",France24
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CBC News Network" tvg-id="CBCNewsNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/960px-CBC_News_Logo.svg.png" group-title="📺 Nouvelles",CBC News Network
@@ -229,6 +229,7 @@ https://live.matele.be/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One Français
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+
 
 
 
