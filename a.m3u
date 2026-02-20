@@ -57,6 +57,9 @@ https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master720p.m3u8
 #EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png" group-title="📺 Canada",Gusto
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD",Knowledge Network (720p) [Geo-blocked]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+
 
 
 # #EXTINF:-1 tvg-name="Crave 1" tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="📺 Film",Crave 1
@@ -300,6 +303,7 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="Movies",Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+
 
 
 
