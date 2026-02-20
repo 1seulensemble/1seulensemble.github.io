@@ -164,28 +164,27 @@ https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Nicktoons.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/960px-Nicktoons_2023_Outlined_Logo.png" group-title="📺 Dessins animés",Nicktoons UK
 https://a1xs.vip/100054
 
-#EXTINF:-1 tvg-id="Diaspora24.sn@SD" tvg-logo="https://i.imgur.com/4devfx1.png" group-title="Undefined",Diaspora 24 [Geo-blocked]
+#EXTINF:-1 tvg-id="Diaspora24.sn@SD" tvg-logo="https://i.imgur.com/4devfx1.png" group-title="Undefined",Diaspora 24
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="GeopolisTV.cd@SD" tvg-logo="https://i.imgur.com/WzGAIYe.jpg" group-title="News",Géopolis TV (240p)
+#EXTINF:-1 tvg-id="GeopolisTV.cd@SD" tvg-logo="https://i.imgur.com/WzGAIYe.jpg" group-title="News",Géopolis TV
 https://tnt-television.com/Geopolis_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Music",Ivoire Channel (720p)
+#EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Music",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaisonTravauxTV.fr@SD" tvg-logo="https://i.imgur.com/uYpc6nE.png" group-title="Lifestyle",Maison & Travaux TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 
 
-#EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.postimg.cc/KvBBtrDw/matele.png" group-title="General",MaTele (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.postimg.cc/KvBBtrDw/matele.png" group-title="General",MaTele
 https://live.matele.be/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="MDL.fr@SD" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="Undefined",MDL (720p)
+#EXTINF:-1 tvg-id="MDL.fr@SD" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="Undefined",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MensUPTV.fr@SD" tvg-logo="https://i.imgur.com/5BZwRFs.png" group-title="General",Men's UP TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Novocomedy.fr@SD" tvg-logo="https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png" group-title="Comedy",Novo Comedy
@@ -195,14 +194,13 @@ https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SerieMax.ci@SD" tvg-logo="https://i.imgur.com/GaRQXHT.png" group-title="Series",Serie Max
 
 
-
-#EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-512px-Logo_de_la_chaine_T18.svg.png" group-title="General",T18 (1080p)
+#EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-512px-Logo_de_la_chaine_T18.svg.png" group-title="General",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
 #EXTINF:-1 tvg-id="Telenantes.fr@SD" tvg-logo="https://i.imgur.com/G1SCqNI.png" group-title="Undefined",Telenantes
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
 
-#EXTINF:-1 tvg-id="TV7Colmar.fr@SD" tvg-logo="https://i.imgur.com/kSdGi43.png" group-title="General",TV7 Colmar (576p)
+#EXTINF:-1 tvg-id="TV7Colmar.fr@SD" tvg-logo="https://i.imgur.com/kSdGi43.png" group-title="General",TV7 Colmar 
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 
 
@@ -218,6 +216,7 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One Français (720p)
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+
 
 
 
