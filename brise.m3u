@@ -73,4 +73,13 @@
 # #EXTINF:-1 tvg-name="RTS 2" tvg-id="RTS2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png" group-title="📺 Suisse",RTS 2
 # https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 
+# #EXTINF:-1 tvg-name="Disney Jr." tvg-id="DisneyJr.fr@SD",Disney Jr.
+# http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+
+# #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.fr@SD",Nickelodeon
+# http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+
+# #EXTINF:-1 tvg-name="Nickelodeon Junior" tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior
+# http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+
 
