@@ -181,6 +181,10 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aa
 #EXTINF:-1  tvg-name="ICI Première" tvg-id="x" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio",ICI Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 
+#EXTINF:-1  tvg-name="98.5 fm (Montréal)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c5/Logo_985_saison_2021.png" tvg-chno="103" group-title="📻 Radio Québécoise",98.5 fm (Montréal)
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC_SC.aac
+
+
 
 #EXTINF:-1 tvg-id="Q-music.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/330px-Qmusic_logo.svg.png",Q-Music
 https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
@@ -288,6 +292,7 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="Movies",Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+
 
 
 
