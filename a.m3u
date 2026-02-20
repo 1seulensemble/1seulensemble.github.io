@@ -1,3 +1,5 @@
+# Source : https://iptv-org.github.io/
+
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 # EPG Suisse : https://epghub.xyz/epg/EPG-CH.xml.gz
 # Sony : https://i.mjh.nz/SamsungTVPlus/fr.xml.gz
@@ -215,6 +217,7 @@ https://live.matele.be/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One Français
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+
 
 
 
