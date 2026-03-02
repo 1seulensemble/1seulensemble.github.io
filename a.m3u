@@ -119,6 +119,16 @@ https://langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8
 # #EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
 # http://69.64.57.208/france2/mono.m3u8
 
+# === France 2-3-4
+#EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+#EXTINF:-1 tvg-name="France 3" tvg-id="France3.fr" tvg-logo="https://i.postimg.cc/d0wrVP20/france3.png" group-title="📺 France",France 3
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 tvg-name="France 4"tvg-id="France4.fr" tvg-logo="https://i.postimg.cc/HLz5JZz9/france4.png" group-title="📺 France",France 4
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 tvg-name="France 5" tvg-id="France5.fr" tvg-logo="https://i.postimg.cc/TwPbnVHM/france5.png" group-title="📺 France",France 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="📺 France",TV5Monde Asie
 https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 
@@ -235,6 +245,7 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo-culture-pub1.jpg",Culture Pub
 https://amg02232-botravail-amg02232c3-lg-fr-776.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgfr/playlist.m3u8
+
 
 
 
