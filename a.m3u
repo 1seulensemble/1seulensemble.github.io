@@ -128,6 +128,10 @@ https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-name="TF1 Series" tvg-id="TF1Series-Films.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies" group-title="📺 France",TF1 Series Films
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 
+#EXTINF:-1 tvg-name="TFx" tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Movies" group-title="📺 France",TFx
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+
+
 #EXTINF:-1 tvg-name="ARTE" tvg-id="Arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/500px-Arte-Logo.svg.png" group-title="📺 France",ARTE
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 
@@ -203,6 +207,9 @@ https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/0qyz6IUWgNW3eY8DaafuSQ/1920x1080.webp",Enquetesdechoc
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-lgfr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/2nd5Cox.png",6ter
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 
 
 # === Belgique ===================================================================================================
@@ -287,6 +294,7 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo-culture-pub1.jpg",Culture Pub
 https://amg02232-botravail-amg02232c3-lg-fr-776.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgfr/playlist.m3u8
+
 
 
 
