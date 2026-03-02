@@ -116,8 +116,17 @@ https://langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8
 
 # === France =====================================================================================================
 
-# #EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
-# http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-name="TMC" tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/960px-TMC_logo_2016.svg.png" group-title="📺 France",TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+
+#EXTINF:-1 tvg-name="TF1" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/960px-Logo_TF1_2013.svg.png" group-title="📺 France",TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+
+#EXTINF:-1 tvg-name="TF1 Series" tvg-id="TF1Series-Films.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies" group-title="📺 France",TF1 Series Films
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+
+#EXTINF:-1 tvg-name="ARTE" tvg-id="Arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/500px-Arte-Logo.svg.png" group-title="📺 France",ARTE
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 
 # === France 2-3-4
 #EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
@@ -245,6 +254,7 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo-culture-pub1.jpg",Culture Pub
 https://amg02232-botravail-amg02232c3-lg-fr-776.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgfr/playlist.m3u8
+
 
 
 
