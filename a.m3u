@@ -8,7 +8,7 @@
 
 # === Nouvelles ==================================================================================================
 
-#EXTINF:-1  tvg-name="ICI RDI (1)" tvg-id="ICI-RDI.ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" group-title="📺 Nouvelles",ICI RDI
+#EXTINF:-1  tvg-name="ICI RDI" tvg-id="ICI-RDI.ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" group-title="📺 Nouvelles",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2000.m3u8
 
 #EXTINF:-1  tvg-name="LCN" tvg-id="LeCanalNouvellesTVA.ca" tvg-logo="https://i.imgur.com/JHOyrgA.png" group-title="📺 Nouvelles",LCN
@@ -17,7 +17,7 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1  tvg-name="France24" tvg-id="France24.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png"  group-title="📺 Nouvelles",France24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
-#EXTINF:-1  tvg-name="BFM Business" tvg-id="BFM.fr" tvg-logo="https://i.imgur.com/psqIHn4.png"  group-title="📺 Nouvelles",BFM Business
+#EXTINF:-1  tvg-name="BFM Business" tvg-id="BFMBusiness.fr" tvg-logo="https://i.imgur.com/psqIHn4.png"  group-title="📺 Nouvelles",BFM Business
 https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
 
 #EXTINF:-1 tvg-name="CBC News Network" tvg-id="CBCNewsNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/960px-CBC_News_Logo.svg.png" group-title="📺 Nouvelles",CBC News Network
@@ -287,6 +287,7 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo-culture-pub1.jpg",Culture Pub
 https://amg02232-botravail-amg02232c3-lg-fr-776.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgfr/playlist.m3u8
+
 
 
 
