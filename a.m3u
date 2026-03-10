@@ -235,11 +235,17 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-logo="https://annuaire-monaco.mc/news-monaco/wp-content/uploads/2023/09/TVMonaco.png" group-title="📺 Monaco",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 
-#EXTINF:-1 tvg-id="MonacoInfo.mc@SD" tvg-logo="https://i.imgur.com/FPyPaL1.png" group-title="News" group-title="📺 Monaco",Monaco Info
+#EXTINF:-1 tvg-id="MonacoInfo.mc@SD" tvg-logo="https://i.imgur.com/FPyPaL1.png" group-title="📺 Monaco",Monaco Info
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperyachtTV.mc@SD" tvg-logo="https://superyacht.tv/wp-content/uploads/2022/02/apple-touch-icon.png" group-title="📺 Monaco",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
+
+
+# === Chine =================================================================================
+
+#EXTINF:-1 tvg-id="X" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="📺 Chine",CGTN Francais
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
 
 # === Radio/Musique =========================================================================
@@ -303,6 +309,7 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo-culture-pub1.jpg",Culture Pub
 https://amg02232-botravail-amg02232c3-lg-fr-776.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgfr/playlist.m3u8
+
 
 
 
