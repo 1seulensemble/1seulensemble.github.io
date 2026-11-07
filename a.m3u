@@ -17,6 +17,9 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1  tvg-name="France24" tvg-id="France24.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png"  group-title="📺 Nouvelles",France24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
+#EXTINF:-1 tvg-name="TV5 Monde Info" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="📺 France",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
 ### #EXTINF:-1  tvg-name="BFM Business" tvg-id="BFMBusiness.fr" tvg-logo="https://i.imgur.com/psqIHn4.png"  group-title="📺 Nouvelles",BFM Business
 ### https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
 
@@ -147,68 +150,65 @@ https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg0014
 ### https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 
 # === France 2-3-4
-#EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
-#EXTINF:-1 tvg-name="France 3" tvg-id="France3.fr" tvg-logo="https://i.postimg.cc/d0wrVP20/france3.png" group-title="📺 France",France 3
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-#EXTINF:-1 tvg-name="France 4"tvg-id="France4.fr" tvg-logo="https://i.postimg.cc/HLz5JZz9/france4.png" group-title="📺 France",France 4
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
-#EXTINF:-1 tvg-name="France 5" tvg-id="France5.fr" tvg-logo="https://i.postimg.cc/TwPbnVHM/france5.png" group-title="📺 France",France 5
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+### #EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
+### https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+### #EXTINF:-1 tvg-name="France 3" tvg-id="France3.fr" tvg-logo="https://i.postimg.cc/d0wrVP20/france3.png" group-title="📺 France",France 3
+### https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+### #EXTINF:-1 tvg-name="France 4"tvg-id="France4.fr" tvg-logo="https://i.postimg.cc/HLz5JZz9/france4.png" group-title="📺 France",France 4
+### https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+### #EXTINF:-1 tvg-name="France 5" tvg-id="France5.fr" tvg-logo="https://i.postimg.cc/TwPbnVHM/france5.png" group-title="📺 France",France 5
+### https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 
-#EXTINF:-1 tvg-name="M6" tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-logo="" group-title="📺 France",M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+### #EXTINF:-1 tvg-name="M6" tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-logo="" group-title="📺 France",M6
+### https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
-#EXTINF:-1 tvg-name="W9" tvg-id="W9.fr" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="📺 France",W9
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+### #EXTINF:-1 tvg-name="W9" tvg-id="W9.fr" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="📺 France",W9
+### https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 
-#EXTINF:-1 tvg-name="Carac 1" tvg-id="CARAC.1.ch" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="📺 Suisse",Carac 1
-https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+### #EXTINF:-1 tvg-name="Carac 1" tvg-id="CARAC.1.ch" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="📺 Suisse",Carac 1
+### https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
 
-#EXTINF:-1 tvg-name="Carac 2" tvg-id="CARAC.2.ch" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="📺 Suisse",Carac 2
-https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
+### #EXTINF:-1 tvg-name="Carac 2" tvg-id="CARAC.2.ch" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="📺 Suisse",Carac 2
+### https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
 
-#EXTINF:-1 tvg-name="Carac 3" tvg-id="CARAC.3.ch" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="📺 Suisse",Carac 3
-https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+### #EXTINF:-1 tvg-name="Carac 3" tvg-id="CARAC.3.ch" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="📺 Suisse",Carac 3
+### https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
 
-#EXTINF:-1 tvg-name="Carac 4" tvg-id="CARAC.4.ch" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="📺 Suisse",Carac 4
-https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+### #EXTINF:-1 tvg-name="Carac 4" tvg-id="CARAC.4.ch" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="📺 Suisse",Carac 4
+### https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
 
-#EXTINF:-1 tvg-name="Carac 5" tvg-id="CARAC.5.ch" tvg-logo="https://i.imgur.com/0D4CvYp.png" group-title="📺 Suisse",Carac 5
-https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+### #EXTINF:-1 tvg-name="Carac 5" tvg-id="CARAC.5.ch" tvg-logo="https://i.imgur.com/0D4CvYp.png" group-title="📺 Suisse",Carac 5
+### https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 
-#EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/AB3_logo_2025.png/960px-AB3_logo_2025.png" group-title="📺 Belgique",AB3 HD
-https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+### #EXTINF:-1 tvg-name="AB3" tvg-id="AB3.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/AB3_logo_2025.png/960px-AB3_logo_2025.png" group-title="📺 Belgique",AB3 HD
+### https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
-#EXTINF:-1 tvg-name="RTS 1" tvg-id="RTS1.fr" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="📺 Suisse",RTS 1
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+### #EXTINF:-1 tvg-name="RTS 1" tvg-id="RTS1.fr" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="📺 Suisse",RTS 1
+### https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 
-#EXTINF:-1 tvg-name="RTS 2" tvg-id="RTS2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png" group-title="📺 Suisse",RTS 2
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+### #EXTINF:-1 tvg-name="RTS 2" tvg-id="RTS2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png" group-title="📺 Suisse",RTS 2
+### https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="📺 France",TV5Monde Asie
-https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
-
-#EXTINF:-1 tvg-name="TV5 Monde Info" tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="📺 France",TV5 Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+### #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="📺 France",TV5Monde Asie
+### https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 
 #EXTINF:-1 tvg-name="Plex" tvg-id="PLEXTV.cm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Plex_vector_logo.svg/960px-Plex_vector_logo.svg.png" group-title="📺 France",PLEX
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MDL.fr@SD" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="📺 France",MDL
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+### #EXTINF:-1 tvg-id="MDL.fr@SD" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="📺 France",MDL
+### http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MensUpTV.fr" tvg-logo="https://i.imgur.com/5BZwRFs.png" group-title="📺 France",Men's UP TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
+### #EXTINF:-1 tvg-id="MensUpTV.fr" tvg-logo="https://i.imgur.com/5BZwRFs.png" group-title="📺 France",Men's UP TV
+### https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
 
-#EXTINF:-1 tvg-id="Novocomedy.fr@SD" tvg-logo="https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png" group-title="📺 France",Novo Comedy
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=WY7qC3DIF58
+### #EXTINF:-1 tvg-id="Novocomedy.fr@SD" tvg-logo="https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png" group-title="📺 France",Novo Comedy
+### https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=WY7qC3DIF58
 
 #EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-512px-Logo_de_la_chaine_T18.svg.png" group-title="📺 France",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
-#EXTINF:-1 tvg-id="Telenantes.fr@SD" tvg-logo="https://i.imgur.com/G1SCqNI.png" group-title="📺 France",Telenantes
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
+### #EXTINF:-1 tvg-id="Telenantes.fr@SD" tvg-logo="https://i.imgur.com/G1SCqNI.png" group-title="📺 France",Telenantes
+### https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
 
 #EXTINF:-1 tvg-id="TV7Colmar.fr@SD" tvg-logo="https://i.imgur.com/kSdGi43.png" group-title="📺 France",TV7 Colmar 
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
@@ -219,8 +219,8 @@ https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/0qyz6IUWgNW3eY8DaafuSQ/1920x1080.webp",Enquetesdechoc
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-lgfr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/2nd5Cox.png",6ter
-https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+### #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/2nd5Cox.png",6ter
+### https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 
 
 # === Belgique ===================================================================================================
@@ -249,8 +249,8 @@ https://sy.wns.live/hls/stream.m3u8
 
 # === Chine =================================================================================
 
-#EXTINF:-1 tvg-id="X" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="📺 Chine",CGTN Francais
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+### #EXTINF:-1 tvg-id="X" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="📺 Chine",CGTN Francais
+### https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
 
 # === Radio/Musique =========================================================================
@@ -270,39 +270,39 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKLD_FM.mp3
 #EXTINF:-1  tvg-name="Stingray Nothin' But 90s" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/Tq3I0po.png" tvg-chno="309" group-title="📺 Stingray Music",Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="Q-music.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/330px-Qmusic_logo.svg.png" group-title="📻 Radio/Musique",Q-Music
-https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
+### #EXTINF:-1 tvg-id="Q-music.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/330px-Qmusic_logo.svg.png" group-title="📻 Radio/Musique",Q-Music
+### https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
 
-#EXTINF:-1 tvg-id="RContactVision.be" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/Radio-contact-2024.svg/langfr-3840px-Radio-contact-2024.svg.png" group-title="📻 Radio/Musique",Radio Contact
-https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+### #EXTINF:-1 tvg-id="RContactVision.be" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/Radio-contact-2024.svg/langfr-3840px-Radio-contact-2024.svg.png" group-title="📻 Radio/Musique",Radio Contact
+### https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 
 
 # Enfant ======================================================================================
 #EXTINF:-1,Kids TV
 https://jansonmedia-kidstv-1-ca.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Kidspang TV (CA)
-https://newidco-kidspangtv-1-ca.lg.wurl.tv/playlist.m3u8
+### #EXTINF:-1,Kidspang TV (CA)
+### https://newidco-kidspangtv-1-ca.lg.wurl.tv/playlist.m3u8
 
 # ============================================
 
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://i0.wp.com/cdn.broadbandtvnews.com/wp-content/uploads/2024/07/01110300/Adventure-Earth.jpg",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nicktoons.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/960px-Nicktoons_2023_Outlined_Logo.png" group-title="📺 Dessins animés",Nicktoons UK
-https://a1xs.vip/100054
+### #EXTINF:-1 tvg-id="Nicktoons.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/960px-Nicktoons_2023_Outlined_Logo.png" group-title="📺 Dessins animés",Nicktoons UK
+### https://a1xs.vip/100054
 
 #EXTINF:-1 tvg-id="Diaspora24.sn@SD" tvg-logo="https://i.imgur.com/4devfx1.png" group-title="Undefined",Diaspora 24
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="GeopolisTV.cd@SD" tvg-logo="https://i.imgur.com/WzGAIYe.jpg" group-title="News",Géopolis TV
-https://tnt-television.com/Geopolis_tv/index.m3u8
+### #EXTINF:-1 tvg-id="GeopolisTV.cd@SD" tvg-logo="https://i.imgur.com/WzGAIYe.jpg" group-title="News",Géopolis TV
+### https://tnt-television.com/Geopolis_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Music",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MaisonTravauxTV.fr@SD" tvg-logo="https://i.imgur.com/uYpc6nE.png" group-title="Lifestyle",Maison & Travaux TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+### #EXTINF:-1 tvg-id="MaisonTravauxTV.fr@SD" tvg-logo="https://i.imgur.com/uYpc6nE.png" group-title="Lifestyle",Maison & Travaux TV
+### https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 
 
 #EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.postimg.cc/KvBBtrDw/matele.png" group-title="General",MaTele
