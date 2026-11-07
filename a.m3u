@@ -17,11 +17,11 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1  tvg-name="France24" tvg-id="France24.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png"  group-title="📺 Nouvelles",France24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
-#EXTINF:-1  tvg-name="BFM Business" tvg-id="BFMBusiness.fr" tvg-logo="https://i.imgur.com/psqIHn4.png"  group-title="📺 Nouvelles",BFM Business
-https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
+### #EXTINF:-1  tvg-name="BFM Business" tvg-id="BFMBusiness.fr" tvg-logo="https://i.imgur.com/psqIHn4.png"  group-title="📺 Nouvelles",BFM Business
+### https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
 
-#EXTINF:-1 tvg-name="CBC News Network" tvg-id="CBCNewsNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/960px-CBC_News_Logo.svg.png" group-title="📺 Nouvelles",CBC News Network
-https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+### #EXTINF:-1 tvg-name="CBC News Network" tvg-id="CBCNewsNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/960px-CBC_News_Logo.svg.png" group-title="📺 Nouvelles",CBC News Network
+### https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 
 #EXTINF:-1 tvg-name="CityNews" tvg-id="CityNews24/7Toronto.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="📺 Nouvelles", CityNews
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
@@ -32,8 +32,8 @@ https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4cc
 #EXTINF:-1  tvg-name="CBS NEWS" tvg-id="X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="📺 Nouvelles",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1  tvg-name="FOX NEWS" tvg-id="X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="📺 Nouvelles",FOX NEWS
-https://tvpass.org/live/FoxNewsChannel/hd
+### #EXTINF:-1  tvg-name="FOX NEWS" tvg-id="X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="📺 Nouvelles",FOX NEWS
+### https://tvpass.org/live/FoxNewsChannel/hd
 
 # === Quebec ==================================================================================================
 
@@ -64,14 +64,14 @@ https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 # === Canada ==================================================================================================
 
-#EXTINF:-1 tvg-name="CBC Montréal" tvg-id="CBCMontreal-CBMT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/500px-CBC_Logo_1992-Present.svg.png" group-title="📺 Canada",CBC Montréal
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master3.m3u8
+### #EXTINF:-1 tvg-name="CBC Montréal" tvg-id="CBCMontreal-CBMT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/500px-CBC_Logo_1992-Present.svg.png" group-title="📺 Canada",CBC Montréal
+### https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master3.m3u8
 
-#EXTINF:-1  tvg-name="CBC Kids" tvg-logo="https://logodix.com/logo/251501.png" tvg-chno="198" group-title="📺 Canada",CBC Kids
-https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master720p.m3u8
+### #EXTINF:-1  tvg-name="CBC Kids" tvg-logo="https://logodix.com/logo/251501.png" tvg-chno="198" group-title="📺 Canada",CBC Kids
+### https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master720p.m3u8
 
-#EXTINF:-1  tvg-name="CBC Comedy" tvg-id="Information.Channel.(Generic).(INFO).ca" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbQEeo3aoYISxVWme7xIfHbf5Gl-Wfctpt2DqWC_w=s176-c-k-c0x00ffffff-no-rj" tvg-chno="199" group-title="📺 Canada",CBC Comedy
-https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master720p.m3u8
+### #EXTINF:-1  tvg-name="CBC Comedy" tvg-id="Information.Channel.(Generic).(INFO).ca" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbQEeo3aoYISxVWme7xIfHbf5Gl-Wfctpt2DqWC_w=s176-c-k-c0x00ffffff-no-rj" tvg-chno="199" group-title="📺 Canada",CBC Comedy
+### https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master720p.m3u8
 
 #EXTINF:-1 tvg-name="Gusto" tvg-id="GustoTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/960px-Gusto_logo.svg.png" group-title="📺 Canada",Gusto
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
@@ -111,40 +111,40 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony One HITS Comédie" tvg-logo="https://i.imgur.com/8sHuxxS.png" group-title="📺 Film/Série",Sony One Hits Comedie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="Sony One Séries Comédie" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" group-title="📺 Film/Série",Sony One Series Comedie
-https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="Sony One Séries Thriller" tvg-logo="https://i.imgur.com/RVS8LDj.png" group-title="📺 Film/Série",Sony One Series Thriller
-https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+### #EXTINF:-1 tvg-id="Sony One Séries Comédie" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" group-title="📺 Film/Série",Sony One Series Comedie
+### https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+### #EXTINF:-1 tvg-id="Sony One Séries Thriller" tvg-logo="https://i.imgur.com/RVS8LDj.png" group-title="📺 Film/Série",Sony One Series Thriller
+### https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WildSideTV.fr@SD" tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="📺 Film/Série",Wildside TV
-https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+### #EXTINF:-1 tvg-id="WildSideTV.fr@SD" tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="📺 Film/Série",Wildside TV
+### https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/960px-Baywatch-logo.svg.png",Baywatch
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_of_Cops_%28TV_series%29.svg/960px-Logo_of_Cops_%28TV_series%29.svg.png",Cops
-https://langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8
+### #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_of_Cops_%28TV_series%29.svg/960px-Logo_of_Cops_%28TV_series%29.svg.png",Cops
+### https://langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/ThePriceisRight20072022.png",The Price Is Right
 https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
 
 # === France =====================================================================================================
 
-#EXTINF:-1 tvg-name="TMC" tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/960px-TMC_logo_2016.svg.png" group-title="📺 France",TMC
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+### #EXTINF:-1 tvg-name="TMC" tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/960px-TMC_logo_2016.svg.png" group-title="📺 France",TMC
+### https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 
-#EXTINF:-1 tvg-name="TF1" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/960px-Logo_TF1_2013.svg.png" group-title="📺 France",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+### #EXTINF:-1 tvg-name="TF1" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/960px-Logo_TF1_2013.svg.png" group-title="📺 France",TF1
+### https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 
-#EXTINF:-1 tvg-name="TF1 Series" tvg-id="TF1Series-Films.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies" group-title="📺 France",TF1 Series Films
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+### #EXTINF:-1 tvg-name="TF1 Series" tvg-id="TF1Series-Films.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies" group-title="📺 France",TF1 Series Films
+### https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 
-#EXTINF:-1 tvg-name="TFx" tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Movies" group-title="📺 France",TFx
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+### #EXTINF:-1 tvg-name="TFx" tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Movies" group-title="📺 France",TFx
+### https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 
 
-#EXTINF:-1 tvg-name="ARTE" tvg-id="Arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/500px-Arte-Logo.svg.png" group-title="📺 France",ARTE
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+### #EXTINF:-1 tvg-name="ARTE" tvg-id="Arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/500px-Arte-Logo.svg.png" group-title="📺 France",ARTE
+### https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 
 # === France 2-3-4
 #EXTINF:-1 tvg-name="France 2" tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/ht9VnP7w/france2.png" group-title="📺 France",France 2
